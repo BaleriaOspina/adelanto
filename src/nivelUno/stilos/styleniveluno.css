@@ -1,0 +1,28 @@
+.titleOne {
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 72px;
+
+  border-radius: 5px;
+  color: black;
+  display: flex;
+  padding: 70px;
+}
+.levelOne {
+  padding: 30px;
+  background-color: #071e37;
+}
+.play {
+  border: transparent;
+  float: right;
+  padding-bottom: 10px;
+  color: white;
+}
+.footer {
+  background-color: #071e37;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+}

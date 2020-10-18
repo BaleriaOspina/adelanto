@@ -1,0 +1,30 @@
+margen {
+  padding: 30px;
+  background-color: #071e37;
+}
+
+.elementosInicio {
+  justify-content: center;
+}
+
+.titulo {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.texto {
+  text-align: center;
+}
+
+.padre {
+  text-align: center;
+  background-color: #110f7c7a;
+  border: 2px solid rgb(5, 5, 104);
+  padding: 0 1rem;
+  margin: 1rem;
+}
+
+.fondo {
+  background-image: url("./principal/img/fondo.png");
+  background-repeat: no-repeat;
+}
